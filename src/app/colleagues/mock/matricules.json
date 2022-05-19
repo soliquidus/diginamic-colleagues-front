@@ -1,0 +1,19 @@
+{
+  "matricules": [
+    {
+      "id": 1,
+      "number": "MD002354",
+      "colleagueId": 1
+    },
+    {
+      "id": 2,
+      "number": "MD005484",
+      "colleagueId": 2
+    },
+    {
+      "id": 3,
+      "number": "MD005856",
+      "colleagueId": 3
+    }
+  ]
+}

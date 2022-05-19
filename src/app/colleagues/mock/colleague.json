@@ -1,0 +1,31 @@
+{
+  "colleagues": [
+    {
+      "id": 1,
+      "matricule": 1,
+      "firstName": "Jimmy",
+      "lastName": "Hendrix",
+      "email": "jimmix@gmail.com",
+      "birthDate": "November 27, 1942 03:24:00",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Jimi_Hendrix_experience_1968_%28cropped%29.jpg"
+    },
+    {
+      "id": 2,
+      "matricule": 2,
+      "firstName": "Robert",
+      "lastName": "Plant",
+      "email": "roro@gmail.com",
+      "birthDate": "August 20, 1948 05:16:27",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Robert_Plant_at_the_Palace_Theatre%2C_Manchester.jpg/800px-Robert_Plant_at_the_Palace_Theatre%2C_Manchester.jpg"
+    },
+    {
+      "id": 3,
+      "matricule": 3,
+      "firstName": "Mikael",
+      "lastName": "Åkerfeldt",
+      "email": "miky@gmail.com",
+      "birthDate": "April 17, 1974 05:16:27",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Mikael%C3%85kerfeldtWOA2006.jpg"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "colleagues": [
+    {
+      "id": 1,
+      "matricule": 1,
+      "firstName": "Jimmy",
+      "lastName": "Hendrix",
+      "email": "jimmix@gmail.com",
+      "birthDate": "November 27, 1942 03:24:00",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Jimi_Hendrix_experience_1968_%28cropped%29.jpg"
+    }
+  ],
+  "matricules": [
+    {
+      "id": 1,
+      "number": "MD002354",
+      "colleagueId": 1
+    }
+  ]
+}
